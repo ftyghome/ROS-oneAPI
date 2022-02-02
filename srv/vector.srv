@@ -1,0 +1,4 @@
+std_msgs/Int32MultiArray a
+std_msgs/Int32MultiArray b
+---
+std_msgs/Int32MultiArray sum
