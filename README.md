@@ -20,7 +20,7 @@ This repository provides an example of **vector summation** on ROS using the Int
 
    ```bash
    mkdir -p ~/catkin_ws/src && cd ~/catkin_ws/src
-   git clone https://github.com/ftyghome/ros-oneapi
+   git clone https://github.com/ftyghome/ROS-oneAPI.git
    cd ..
    catkin_make
    ```
